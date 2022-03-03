@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Privacy Lept</string>
+    <string name="welcome_text">Your Privacy Lept!</string>
+    <string name="go_private">Go Private</string>
+</resources>
